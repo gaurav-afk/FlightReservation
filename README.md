@@ -1,3 +1,7 @@
+#Agency Flight Booking App
+
+Welcome to the Agency Flight Booking App! This application is tailored to assist travel agencies in efficiently managing flight bookings for their clients. With features focused on booking flights, accessing reservation history, and viewing detailed booking information, agencies can efficiently handle their clients' travel arrangements.
+
 <img src="https://github.com/gaurav-afk/FlightReservation/assets/65609530/0dbf8a03-2e86-42a9-a228-00e400232606" width="250" height="550">
 <img src="https://github.com/gaurav-afk/FlightReservation/assets/65609530/a5f0edd7-3763-4564-9329-24819ff62f04" width="250" height="550">
 <img src="https://github.com/gaurav-afk/FlightReservation/assets/65609530/1e4e2fb9-267f-48f0-8f29-54540817d31a" width="250" height="550">
